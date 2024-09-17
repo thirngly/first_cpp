@@ -1,2 +1,2 @@
 # first_cpp
-# variable / variable type / logic 
+# variable (example) / variable type (example) / logic 
