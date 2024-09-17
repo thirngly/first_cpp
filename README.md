@@ -1,6 +1,6 @@
 #   first_cpp
 # 1_variable
-  -variable_type 
- \n -sizeof(_) 
+  -variable type 
+  -sizeof() 
   -logic
   -Operator
