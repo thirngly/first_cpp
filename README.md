@@ -1,2 +1,2 @@
 # ==> first_cpp <==
-# variable (example) / variable type (example) / sizeof(_) / logic 
+# variable/variable_type /sizeof(_) /logic/Operator
